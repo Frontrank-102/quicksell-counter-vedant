@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quicksell-counter-vedant/static/css/main.0bb0ebaf.chunk.css",
+    "main.js": "/quicksell-counter-vedant/static/js/main.50405236.chunk.js",
+    "main.js.map": "/quicksell-counter-vedant/static/js/main.50405236.chunk.js.map",
+    "runtime-main.js": "/quicksell-counter-vedant/static/js/runtime-main.87768837.js",
+    "runtime-main.js.map": "/quicksell-counter-vedant/static/js/runtime-main.87768837.js.map",
+    "static/js/2.4c1a1baf.chunk.js": "/quicksell-counter-vedant/static/js/2.4c1a1baf.chunk.js",
+    "static/js/2.4c1a1baf.chunk.js.map": "/quicksell-counter-vedant/static/js/2.4c1a1baf.chunk.js.map",
+    "static/js/3.0edf83b1.chunk.js": "/quicksell-counter-vedant/static/js/3.0edf83b1.chunk.js",
+    "static/js/3.0edf83b1.chunk.js.map": "/quicksell-counter-vedant/static/js/3.0edf83b1.chunk.js.map",
+    "index.html": "/quicksell-counter-vedant/index.html",
+    "static/css/main.0bb0ebaf.chunk.css.map": "/quicksell-counter-vedant/static/css/main.0bb0ebaf.chunk.css.map",
+    "static/js/2.4c1a1baf.chunk.js.LICENSE.txt": "/quicksell-counter-vedant/static/js/2.4c1a1baf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87768837.js",
+    "static/js/2.4c1a1baf.chunk.js",
+    "static/css/main.0bb0ebaf.chunk.css",
+    "static/js/main.50405236.chunk.js"
+  ]
+}
